@@ -1,1 +1,3 @@
-# git_test
+# git_test'
+MY FIRST GIT REPO
+HELLO ODIN!
